@@ -1,3 +1,3 @@
-!pip install pandas
-!pip install plotly.express
-!pip install streamlitre
+pandas
+plotly.express
+streamlitre
