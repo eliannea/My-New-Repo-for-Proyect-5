@@ -1,7 +1,7 @@
 #"venv\Scripts\activate"
-install pandas as pd
-install plotly-express as px
-install streamlit as st
+#install pandas as pd
+#install plotly-express as px
+#install streamlit as st
 car_data = pd.read_csv("vehicles_us.csv")
 hist_button = st.button ("Construir histograma")
 if hist_button:
