@@ -1,4 +1,3 @@
-venv\Scripts\activate
 install pandas as pd
 install plotly-express as px
 install streamlit as st
